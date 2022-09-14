@@ -45,7 +45,7 @@
     +   [写给不耐烦程序员的 JavaScript🚧](https://apachecn.github.io/impatient-js-zh)
     +   [JavaBeginnersTutorial 中文系列教程📚](https://apachecn.github.io/jbt-zh)
     +   [JavaTutorialNetwork 中文系列教程📚](https://apachecn.github.io/jtn-zh)
-    +   [笨办法学C 中文版](https://apachecn.github.io/lcthw-zh)
+    +   [笨办法学 C 中文版](https://apachecn.github.io/lcthw-zh)
     +   [笨办法学 Python · 续 中文版](https://apachecn.github.io/lmpythw-zh)
     +   [Programiz 中文系列教程📚](https://apachecn.github.io/programiz-zh)
     +   [PythonBasics 中文系列教程📚](https://apachecn.github.io/pythonbasics-zh)
